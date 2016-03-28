@@ -2,7 +2,7 @@
 
 #### Goutte 入門編
 
-この[記事](http://www.google.com)をみてください。
+この[記事](http://blog.jojo-net.info/scraping-php/)をみてください。
 
 #### 使い方
 
